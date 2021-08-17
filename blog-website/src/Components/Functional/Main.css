@@ -1,0 +1,8 @@
+.Main{
+    background-color: chocolate;
+    width: 70%;
+    display :flex;
+    flex-direction: row;
+    float:right
+
+}

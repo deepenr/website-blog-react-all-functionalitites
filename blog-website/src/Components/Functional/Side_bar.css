@@ -1,0 +1,14 @@
+
+
+.Side_bar{
+    margin-top: 10px;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color:lightblue;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 600px;
+
+}
